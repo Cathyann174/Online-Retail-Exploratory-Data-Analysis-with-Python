@@ -8,3 +8,7 @@ By conducting exploratory data analysis, I identied patterns, outliers, and corr
 to optimize the store's operations and improve customer satisfaction.
 Through visualizations and statistical analysis, I uncovered key trends, such as the busiest sales months, best-selling products, and the store's most valuable customers. 
 Ultimately, this project aimed to provide actionable insights that can drive strategic business decisions and enhance the store's overall performance in the competitive online retail market.
+
+
+
+
