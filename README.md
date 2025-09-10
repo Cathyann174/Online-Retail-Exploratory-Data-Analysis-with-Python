@@ -10,5 +10,7 @@ Through visualizations and statistical analysis, I uncovered key trends, such as
 Ultimately, this project aimed to provide actionable insights that can drive strategic business decisions and enhance the store's overall performance in the competitive online retail market.
 
 
+<img width="766" height="461" alt="busiest month of the year" src="https://github.com/user-attachments/assets/ce06b604-c3d3-485b-a07c-6e66e0e0d11a" />
+
 
 
