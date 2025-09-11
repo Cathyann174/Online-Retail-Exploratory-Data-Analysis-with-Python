@@ -88,3 +88,12 @@ Thursday had the highset daily transactions
 World War 2 Gliders Asstd Designs was the top selling product
 
 
+
+Recommendation
+
+ Outliers were found in Unit Price which will affect the Sales.
+ An investigation will need be done to know why unit prices were extremely higher for some products.
+
+ Sales had some very high values and negative values. Further analysis needs to be dome to clarify this problem.
+ 
+There were large Quanties shown be abnormal further analysis needs to be conducted to clarify any issues.
