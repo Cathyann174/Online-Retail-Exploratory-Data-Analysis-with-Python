@@ -4,7 +4,7 @@ Case Study
 In this project, I worked with transactional data from an online retail store.
 The dataset contained information about customer purchases, including product details, quantities, prices, and timestamps.
 My task was to explore and analyze the dataset to gain insights into the store's sales trends, customer behavior, and popular products.
-By conducting exploratory data analysis, I identied patterns, outliers, and correlations, allowing meto make data-driven decisions and recommendations
+By conducting exploratory and statistical data analysis, I identied patterns, outliers, and correlations, allowing me to make data-driven decisions and recommendations
 to optimize the store's operations and improve customer satisfaction.
 Through visualizations and statistical analysis, I uncovered key trends, such as the busiest sales months, best-selling products, and the store's most valuable customers. 
 Ultimately, this project aimed to provide actionable insights that can drive strategic business decisions and enhance the store's overall performance in the competitive online retail market.
@@ -88,12 +88,47 @@ Thursday had the highset daily transactions
 World War 2 Gliders Asstd Designs was the top selling product
 
 
+Conclusion
+The busiest sales months:
+November -$1126815.07
+October - $973306.38
+September -$929356.23
 
+Busiest days of te week
+Thursday - $ 1902316.05
+Tuesday - $1562715.68
+Wednesday - $1526440.00
+
+Top customer -United Kingdom
+
+Top selling products
+
+ WORLD WAR 2 GLIDERS ASSTD DESIGNS - 47886
+ JUMBO BAG RED RETROSPOT - 40777
+ ASSORTED COLOUR BIRD ORNAMENT - 32580
+ WHITE HANGING HEART T-LIGHT HOLDER - 32079
+ POPCORN HOLDER - 28550
+ PACK OF 12 LONDON TISSUES - 24297
+ BROCADE RING PURSE - 22672
+ PACK OF 72 RETROSPOT CAKE CASES - 22182
+ VICTORIAN GLASS HANGING T-LIGHT - 21427
+ PACK OF 60 PINK PAISLEY CAKE CASES - 19882
+ 
+ The top customer - United Kingdom
+ 
+ 
+ 
 Recommendation
 
- Outliers were found in Unit Price which will affect the Sales.
- An investigation will need be done to know why unit prices were extremely higher for some products.
+Increase stocks in the top selling products.
 
- Sales had some very high values and negative values. Further analysis needs to be dome to clarify this problem.
- 
-There were large Quanties shown be abnormal further analysis needs to be conducted to clarify any issues.
+Create special offers for our customers in the United Kingdom to encourage more purchasing.
+
+Open on Saturdays.
+
+On the busy months have promotions to encourage more purchasing.
+
+Conduct a survey for the customers that we have low purchasing, to learn what is deterring them.
+
+Take a closer look at the abnormal figures because this can be deterring customers from purchasing. 
+
