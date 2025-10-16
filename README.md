@@ -9,40 +9,32 @@ to optimize the store's operations and improve customer satisfaction.
 Through visualizations and statistical analysis, I uncovered key trends, such as the busiest sales months, best-selling products, and the store's most valuable customers. 
 Ultimately, this project aimed to provide actionable insights that can drive strategic business decisions and enhance the store's overall performance in the competitive online retail market.
 
+<img width="1819" height="794" alt="monthly sales" src="https://github.com/user-attachments/assets/ea8feff1-8ae4-43e3-bea0-7c93f2cfae08" />
 
-<img width="766" height="461" alt="busiest month of the year" src="https://github.com/user-attachments/assets/ce06b604-c3d3-485b-a07c-6e66e0e0d11a" />
 
 November was the busiest month.
 
 
 
 
-
-<img width="721" height="591" alt="Monthly sales" src="https://github.com/user-attachments/assets/143fe448-ce15-4fae-918d-3de52841d4c4" />
-
-The months with the highest monthly sales are November followed by October, September then Decenber.
+<img width="545" height="794" alt="daily sales" src="https://github.com/user-attachments/assets/72c65ad4-a357-4d28-8641-bd7f512e1a85" />
 
 
+Thursday had the highest daily sales
 
 
 
-<img width="863" height="557" alt="Daily Sales" src="https://github.com/user-attachments/assets/765bfa89-84c2-4cf9-b5da-007bf26be34e" />
+<img width="830" height="794" alt="sale by country" src="https://github.com/user-attachments/assets/d0a415d6-746a-44f1-9524-bbb03cc4ad3a" />
 
-Thursday, Tuesday then Wednesday had the highest daily sales
-
-
-
-
-<img width="751" height="503" alt="Top 10 Countries" src="https://github.com/user-attachments/assets/51ba3565-95bd-44a8-a81a-6a9018f0868d" />
 
 United Kingdom was our #1 customer 
 
 
 
+<img width="826" height="794" alt="top 10 products" src="https://github.com/user-attachments/assets/cf42f499-fbd7-4f3c-b680-3742554b38e1" />
 
-<img width="797" height="422" alt="Top 10 United Kindom Products" src="https://github.com/user-attachments/assets/9bc6e972-f44f-4a96-9d67-b2a3ac90097b" />
 
-Top 10 products sold in the United Kingdom
+Top 10 products 
 
 
 
@@ -76,45 +68,55 @@ Scatter Plot for Quantity
 
 
 
-<img width="736" height="426" alt="Total daily transactions" src="https://github.com/user-attachments/assets/bfc299ac-92e8-4b73-996d-a53edc3fa501" />
-
-Thursday had the highset daily transactions
 
 
 
 
-<img width="733" height="367" alt="Top 10 Products" src="https://github.com/user-attachments/assets/639fdf24-73a1-4251-99a9-bc91a71382b5" />
 
-World War 2 Gliders Asstd Designs was the top selling product
+
+
+
 
 
 Conclusion
-The busiest sales months:
-November -$1126815.07
-October - $973306.38
-September -$929356.23
-
-Busiest days of te week
-Thursday - $ 1902316.05
-Tuesday - $1562715.68
-Wednesday - $1526440.00
 
 Top customer -United Kingdom
 
+The busiest sales months:
+November 
+October 
+September 
+
+Busiest days of tte week
+Thursday 
+Tuesday 
+Wednesday 
+
+
+
 Top selling products
 
- WORLD WAR 2 GLIDERS ASSTD DESIGNS - 47886
- JUMBO BAG RED RETROSPOT - 40777
- ASSORTED COLOUR BIRD ORNAMENT - 32580
- WHITE HANGING HEART T-LIGHT HOLDER - 32079
- POPCORN HOLDER - 28550
- PACK OF 12 LONDON TISSUES - 24297
- BROCADE RING PURSE - 22672
- PACK OF 72 RETROSPOT CAKE CASES - 22182
- VICTORIAN GLASS HANGING T-LIGHT - 21427
- PACK OF 60 PINK PAISLEY CAKE CASES - 19882
+ WORLD WAR 2 GLIDERS ASSTD DESIGNS 
  
- The top customer - United Kingdom
+ JUMBO BAG RED RETROSPOT
+ 
+ ASSORTED COLOUR BIRD ORNAMENT 
+ 
+ WHITE HANGING HEART T-LIGHT HOLDER 
+ 
+ POPCORN HOLDER 
+ 
+ PACK OF 12 LONDON TISSUES 
+ 
+ BROCADE RING PURSE
+ 
+ PACK OF 72 RETROSPOT CAKE CASES
+ 
+ VICTORIAN GLASS HANGING T-LIGHT 
+ 
+ PACK OF 60 PINK PAISLEY CAKE CASES 
+ 
+ 
  
  
  
